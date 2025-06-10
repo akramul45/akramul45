@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - I am a student
 -->
+# skills
+- basic computer
+- - MS Eord
+  - MS Excel
+  - PowerPoints
+  - Web design
+- mobile operation
+- - software moderator
